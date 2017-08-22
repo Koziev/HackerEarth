@@ -1,2 +1,1 @@
-# HackerEarth
-Черновики и модели для HackerEarth
+Черновики и модели для соревнований HackerEarth
